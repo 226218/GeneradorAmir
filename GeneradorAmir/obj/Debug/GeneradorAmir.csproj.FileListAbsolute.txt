@@ -1,0 +1,39 @@
+D:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.exe.config
+D:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.csprojResolveAssemblyReference.cache
+D:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.Form1.resources
+D:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.Properties.Resources.resources
+D:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.csproj.GenerateResource.Cache
+D:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.exe
+D:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.pdb
+D:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.exe
+D:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.pdb
+D:\Archivos amir\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.exe.config
+D:\Archivos amir\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.exe
+D:\Archivos amir\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.pdb
+D:\Archivos amir\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.exe
+D:\Archivos amir\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.pdb
+D:\Archivos amir\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.csprojResolveAssemblyReference.cache
+D:\Archivos amir\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.Form1.resources
+D:\Archivos amir\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.Properties.Resources.resources
+D:\Archivos amir\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.csproj.GenerateResource.Cache
+G:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.exe.config
+G:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.exe
+G:\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.pdb
+H:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.exe.config
+H:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.exe
+H:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.pdb
+H:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.exe
+H:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.pdb
+H:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.csprojResolveAssemblyReference.cache
+H:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.Form1.resources
+H:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.Properties.Resources.resources
+H:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.csproj.GenerateResource.Cache
+G:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.exe.config
+G:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.exe
+G:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.pdb
+G:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.exe
+G:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\bin\Debug\GeneradorAmir.pdb
+G:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.csprojResolveAssemblyReference.cache
+G:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.Form1.resources
+G:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.Properties.Resources.resources
+G:\8vo Semestre\Generador de Sistemas Amir\GeneradorAmir\GeneradorAmir\GeneradorAmir\obj\Debug\GeneradorAmir.csproj.GenerateResource.Cache
